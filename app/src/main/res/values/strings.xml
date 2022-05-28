@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="business_card_full_name">Alexandr Porotov</string>
+    <string name="business_card_title">Android developer</string>
+    <string name="business_card_sub_title">Java and Kotlin</string>
+    <string name="business_card_phone">+7 (999) 203–18-07</string>
+    <string name="business_card_mail">alexandr.porotov@yandex.ru</string>
+    <string name="business_card_socialMedia">\@alexandr_porotov</string>
+</resources>
